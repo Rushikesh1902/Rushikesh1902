@@ -1,6 +1,6 @@
 # <h1 align="center">Hi!👋🏻, I'm Rushikesh 👨🏻‍💻</h1>
 
-### ✍️ Developer's Quote
+### Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
@@ -13,12 +13,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Rushikesh1902&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh1902&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
 <img src="https://github.com/user-attachments/assets/61ac1387-6770-4dd2-97c8-f27f3927e09f" width="495" />
-
-
-
 
 
 
