@@ -1,6 +1,6 @@
 # <h1 align="center">Hi!👋🏻, I'm Rushikesh 👨🏻‍💻</h1>
 
-### Quote :
+### ✍🏻Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
