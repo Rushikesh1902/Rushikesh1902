@@ -1,5 +1,7 @@
 # <h1 align="center">Hi!👋🏻, I'm Rushikesh 👨🏻‍💻</h1>
 
+### ✍️ Developer's Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rushikesh_1902_55180) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rushikesh-waghmare192/) 
@@ -11,8 +13,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Rushikesh1902&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rushikesh1902&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
