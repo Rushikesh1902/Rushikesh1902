@@ -17,7 +17,7 @@
 
 <img src="https://github.com/user-attachments/assets/61ac1387-6770-4dd2-97c8-f27f3927e09f" width="495" />
 
-![NgodingMuluGIF](https://github.com/user-attachments/assets/61ac1387-6770-4dd2-97c8-f27f3927e09f)
+
 
 
 
